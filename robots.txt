@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upoloaco.github.io/Clx/sitemap_index.txt
+Sitemap: https://upoloaco.github.io/gvO/sitemap_index.txt
+Sitemap: https://upoloaco.github.io/vfM/sitemap_index.txt
+Sitemap: https://upoloaco.github.io/yor/sitemap_index.txt
